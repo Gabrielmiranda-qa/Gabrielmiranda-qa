@@ -13,10 +13,9 @@ Sou um profissional em **Quality Assurance (QA)**, apaixonado por tecnologia e t
 
 ---
 
-## 🛠 Experiências e Projetos
+## 🛠 Experiências
 
 - **QA Junior** – Criação de casos de teste, execução de testes manuais e automatizados, reporte de bugs e melhoria de processos.  
-- **Projetos de Automação** – Scripts de teste com Selenium e Cypress, validação de APIs usando Postman e Python.  
 - **Aprendizado Contínuo** – Estudo constante de boas práticas de QA, automação e novas tecnologias.
 
 ---
@@ -28,18 +27,6 @@ Sou um profissional em **Quality Assurance (QA)**, apaixonado por tecnologia e t
 - Resolução de problemas e pensamento crítico  
 - Trabalho em equipe e colaboração  
 - Proatividade e aprendizado contínuo  
-
----
-
-## 📂 Projetos no GitHub
-
-Alguns dos meus projetos e estudos incluem:  
-
-- **[Automação Web com Selenium e Cypress](https://github.com/Gabrielmiranda-qa)** – Scripts de testes automatizados para aplicações web  
-- **[Testes de API com Postman e Python](https://github.com/Gabrielmiranda-qa)** – Validação de endpoints e criação de coleções de teste  
-- **[Dashboard de QA](https://github.com/Gabrielmiranda-qa)** – Relatórios e métricas de qualidade de software  
-
-*(Adicione links diretos de cada repositório quando quiser destacar projetos específicos)*
 
 ---
 
